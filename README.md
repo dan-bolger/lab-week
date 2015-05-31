@@ -1,3 +1,4 @@
+```
 # Lab-week
 
 Fiona/  Dan Bolger / Joanne / Stefan                          :: Core Ruby / Domain modelling
@@ -35,4 +36,5 @@ Monday 9:30am                       : Stephen's "Let's get going" JS bowling tal
 Monday am                       : Leo’s Domain Modelling Talk.
 Tuesday am / Thursday           : Spike’s “back to basics”.
 Tuesday pm                      : Sam Morgan’s CSS Talk.
+```
 
