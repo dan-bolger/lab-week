@@ -2,7 +2,7 @@
 
 Fiona/  Dan Bolger / Joanne / Stefan                          :: Core Ruby / Domain modelling
 
-Intentions:
+Intentions (To be formulated into firm plan MOnday am):
 
 Ruby basics
   - More basics, maybe even CW stuff in pairs
