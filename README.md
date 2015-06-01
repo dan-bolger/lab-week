@@ -1,5 +1,7 @@
 ## Lab-week
 
+Below is the hashed-out plan for lab week. All of the below text is subject to alteration. Links to repos are at the end.
+
 ```
 
 Fiona/  Dan Bolger / Joanne / Stefan                          :: Core Ruby / Domain modelling
@@ -27,7 +29,7 @@ API-wise
 Checklist:
 
 [x] create a “lab week” repo. Create a README describing your objectives for the week, what you want to cover
-[ ] Form plan in Monday standup
+[x] Form plan in Monday standup
 [ ]
 [ ]
 [ ]
