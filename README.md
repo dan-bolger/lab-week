@@ -3,10 +3,10 @@
 
 Fiona/  Dan Bolger / Joanne / Stefan                          :: Core Ruby / Domain modelling
 
-Intentions (To be formulated into firm plan MOnday am):
+Intentions (To be formulated into firm plan Monday am):
 
 Ruby basics
-  [ ] More basics, maybe even CW stuff in pairs
+  [ ] Pairing with Stefan on Boris Bikes then Airport
   [ ] Re-explore Sinatra and the rest
   [ ] Redo a project/challenge/short kata style thing put it on the web as far as possible
 
@@ -15,7 +15,7 @@ Javascript
 
 HTML /CSS
   [ ] explore this in 'spare time'
-  
+
 BDD etc
   [ ] read as much POODR as possible
 
@@ -27,7 +27,7 @@ Checklist:
 
 [x] create a “lab week” repo. Create a README describing your objectives for the week, what you want to cover
 [ ] Form plan in Monday standup
-[ ] 
+[ ]
 [ ]
 [ ]
 
