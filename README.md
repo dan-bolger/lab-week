@@ -1,12 +1,13 @@
+## Lab-week
+
 ```
-# Lab-week
 
 Fiona/  Dan Bolger / Joanne / Stefan                          :: Core Ruby / Domain modelling
 
 Intentions (To be formulated into firm plan Monday am):
 
 Ruby basics
-  [ ] Pairing with Stefan on Boris Bikes then Airport
+  [ ] Pairing with Stefan on Boris Bikes then Airport - 
   [ ] Re-explore Sinatra and the rest
   [ ] Redo a project/challenge/short kata style thing put it on the web as far as possible
 
@@ -32,9 +33,16 @@ Checklist:
 [ ]
 
 Lectures:
-Monday 9:30am                       : Stephen's "Let's get going" JS bowling talk.
+Monday 9:30am                   : Stephen's "Let's get going" JS bowling talk.
 Monday am                       : Leo’s Domain Modelling Talk.
 Tuesday am / Thursday           : Spike’s “back to basics”.
 Tuesday pm                      : Sam Morgan’s CSS Talk.
 ```
+Repos
+=====
 
+Boris Bikes:
+https://github.com/dan-bolger/boris-labweek
+
+Airport:
+<to be continued>
